@@ -1,2 +1,2 @@
-# pythonbasics
-python basic List tuple sets
+
+python logical programs 
